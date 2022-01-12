@@ -1,0 +1,2 @@
+def cadena(texto): 
+    if

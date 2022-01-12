@@ -1,0 +1,11 @@
+1.- Obtener el nombre de todos lod usuarios con una edad mayor a 40
+2.- Obtener le nombre de todos los usuarios con una edad mayor a 20 y de sexo femenino
+3.- Mostarr en consola el nombre de tofod lod usuarios que no poseen un coreo pushstate_element_content_processing_instruction_callback
+listas el nombre y correo del uusuario mas joven de canada 
+listar los 5 paises con mauor cantidad de usuarios
+obtener el pais con mas usuarios   
+obtener el pais con mas usuarios cuya edad se mayor de 50 
+obtener la suma total de todos los usuarios de canada y germania 
+mostrar en consola la cantidad de paises en el dataset 
+obtener el promedio de edad de cada uno de los pàises
+mostrar en consola el pais con mas hombres
